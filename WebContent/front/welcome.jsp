@@ -47,13 +47,5 @@
         Design By <a href="http://www.tangguoan.com">@guoan</a>
     </footer>
 </div>
-
-<script src="auth.js"></script>
-<script>
-    Auth.init({
-        login_url: '#login',
-        forgot_url: '#forgot'
-    });
-</script>
 </body>
 </html>

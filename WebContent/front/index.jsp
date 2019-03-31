@@ -32,16 +32,13 @@
                                 <div class="slideshow">
                                     <div id="slidershow" class="nivoSlider">
                                         <a href="#" class="nivo-imageLink" style="display: block;">
-                                            <img src="images/img1.png" class="img-responsive" style="display: none;">
+                                            <img src="images/myimg1.png" class="img-responsive" style="display: none;">
                                         </a>
                                         <a href="#" class="nivo-imageLink" style="display: none;">
-                                            <img src="images/img2.png" class="img-responsive" style="display: none;">
+                                            <img src="images/myimg2.png" class="img-responsive" style="display: none;">
                                         </a>
                                         <a href="#" class="nivo-imageLink" style="display: none;">
-                                            <img src="images/img3.png" class="img-responsive" style="display: none;">
-                                        </a>
-                                        <a href="#" class="nivo-imageLink" style="display: none;">
-                                            <img src="images/img4.png" class="img-responsive" style="display: none;">
+                                            <img src="images/myimg3.png" class="img-responsive" style="display: none;">
                                         </a>
                                     </div>
                                 </div>
