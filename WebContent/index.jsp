@@ -12,7 +12,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>51商城</title>
 	<script type="text/javascript">
-			window.location.href="front/welcome.jsp"; 	//直接跳转到首页
+			window.location.href="front/index.jsp"; 	//直接跳转到首页
 	</script>
 </head>
 <body>

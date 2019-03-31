@@ -53,9 +53,8 @@
 													<input type="number" name="quantity" value="1" size="2"
 														id="shuliang" class="form-control"> <br>
 													<div class="btn-group">
-														<a href ="selectCarrier.jsp">
-														<button type="button" class="btn btn-primary btn-primary">
-															<i class="fa fa-shopping-cart"></i> 购买</button>
+														<button type="button" onclick="addCart()" class="btn btn-primary btn-primary">
+															<i class="fa fa-shopping-cart"></i> 添加到购物车</button>
 														<button type="button" id="button-wishlist" data-toggle="tooltip" class="btn"
 														 title="收藏" data-original-title="收藏"> <i class="fa fa-heart"></i></button>
 													</div>
